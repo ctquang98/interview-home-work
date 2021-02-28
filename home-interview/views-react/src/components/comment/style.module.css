@@ -1,0 +1,33 @@
+.commentContainer > p {
+    border-bottom: 1px solid #ddd;
+    color: #6d6b6b;
+    padding-bottom: 10px;
+}
+
+.commentContainer > p:hover {
+    cursor: pointer;
+}
+
+.commentItem {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.commentDetail p {
+    font-size: 1rem;
+}
+
+.image {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+.author > p {
+    margin: 0;
+    color:#656565;
+}
+
+.author span {
+    color: #8c8c8c;
+}

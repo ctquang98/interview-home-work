@@ -1,0 +1,6 @@
+export const GET_ALL_POSTS = 'GET_ALL_POSTS';
+export const FETCHING_DATA = 'FETCHING_DATA';
+
+export const USER_SAVE_INFO = 'USER_SAVE_INFO';
+export const USER_LOGOUT = 'USER_LOGOUT';
+export const USER_FETCHING_INFO = 'USER_FETCHING_INFO';

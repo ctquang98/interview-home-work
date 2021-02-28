@@ -1,0 +1,22 @@
+.cardContainer {
+    padding: 10px 0;
+    margin-bottom: 30px;
+}
+
+.cardContainer > h1 {
+    text-align: center;
+}
+
+.introduction {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tagContainer {
+    max-width: 20%;
+}
+
+.tags {
+    margin: 0 3px;
+}
